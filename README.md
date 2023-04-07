@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I'm a Python developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvns&label=Profile%20views&color=0e75b6&style=flat" alt="harshvns" /> </p>
+<p align="left"> <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="harshvns" /> </p>
 
 - 📫 How to reach me **harshupadhyayupps@gmail.com**
 
