@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">I'm a Python developer</h3>
+<h3 align="center">I'm a MERN developer</h3>
 
 <p align="left"> <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="harshvns" /> </p>
 
