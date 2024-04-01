@@ -11,6 +11,7 @@
 <a href="https://www.codechef.com/users/harshpandit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
 <a href="https://leetcode.com/harshupadhyayupps/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshupadv3ic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshupadv3ic" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshupadv3ic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://codeforces.com/profile/harshupadhyayupps" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
